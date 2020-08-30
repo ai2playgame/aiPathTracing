@@ -1,0 +1,3 @@
+[submodule "thirdparty/edupt"]
+	path = thirdparty/edupt
+	url = https://github.com/githole/edupt.git
