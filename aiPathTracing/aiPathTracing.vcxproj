@@ -149,8 +149,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="aipt\Constant.hpp" />
+    <ClInclude Include="aipt\Intersection.hpp" />
+    <ClInclude Include="aipt\Material.hpp" />
     <ClInclude Include="aipt\ppmHandler.hpp" />
     <ClInclude Include="aipt\Random.hpp" />
+    <ClInclude Include="aipt\Ray.hpp" />
+    <ClInclude Include="aipt\Sphere.hpp" />
+    <ClInclude Include="aipt\Vec3.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
